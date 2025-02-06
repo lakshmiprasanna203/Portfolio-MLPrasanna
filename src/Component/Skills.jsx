@@ -48,15 +48,6 @@ const Skills = () => {
 
 
 
-              
-
-
-
-
-
-
-
-
       </SimpleGrid>
 
 

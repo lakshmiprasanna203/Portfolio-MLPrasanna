@@ -98,7 +98,7 @@ const Navbar = () => {
                 </HStack>
 
 
-                <Button onClick = {OpenPDF} id="resume-button-1" _hover = {{background : 'rgb(201, 76, 76)'}} className="nav-link resume" size = {['sm','md']} variant = 'none' bg = 'rgb(201, 76, 76)' border = '1px solid' boxShadow={'1px 1px 5px'} color = 'white'><ChakraLink id="resume-link-1" isExternal href = 'Lakshmi_Prasanna_Resume.pdf' download="Lakshmi_Prasanna_Resume.pdf" _hover = {{textDecoration : 'none', borderBottom : '2px solid' , borderColor : 'rgb(224, 247, 250)'}}>Resume</ChakraLink></Button>
+                <Button onClick = {OpenPDF} id="resume-button-1" _hover = {{background : 'rgb(201, 76, 76)'}} className="nav-link resume" size = {['sm','md']} variant = 'none' bg = 'rgb(201, 76, 76)' border = '1px solid' boxShadow={'1px 1px 5px'} color = 'white'><ChakraLink id="resume-link-1" isExternal href = 'Lakshmi_Prasanna_Resume.pdf' download="Lakshmi_Prasanna_Resume.pdf" _hover = {{textDecoration : 'none', borderBottom : '2px solid' , borderColor : 'rgb(224, 247, 250)'}}>My CV</ChakraLink></Button>
 
 
 
